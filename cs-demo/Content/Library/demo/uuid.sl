@@ -15,8 +15,6 @@ namespace: io.cloudslang.demo
 operation:
     name: uuid
 
-    inputs:
-
     python_action:
       script:
        import uuid
